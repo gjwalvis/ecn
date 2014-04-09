@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN"
+"http://www.wapforum.org/DTD/wml_1.1.xml">
+<wml>
+  <card id="Login">
+    <p>
+      Example Page 1
+    </p>
+  </card>
+  <card id="Display">
+    <p>
+      Example Page 2
+    </p>
+  </card>
+</wml>
